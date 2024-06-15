@@ -1,0 +1,29 @@
+15.06.2024 10:10:45: Form1 constructor: Start
+15.06.2024 10:10:45: InitializeDataGridView: Start
+15.06.2024 10:10:45: InitializeDataGridView: End
+15.06.2024 10:10:45: LoadProcesses: Start
+15.06.2024 10:11:13: Form1 constructor: Start
+15.06.2024 10:11:13: InitializeDataGridView: Start
+15.06.2024 10:11:13: InitializeDataGridView: End
+15.06.2024 10:11:13: LoadProcesses: Start
+15.06.2024 10:11:34: Form1 constructor: Start
+15.06.2024 10:11:34: InitializeDataGridView: Start
+15.06.2024 10:11:34: InitializeDataGridView: End
+15.06.2024 10:11:34: LoadProcesses: Start
+15.06.2024 10:11:39: Form1 constructor: Start
+15.06.2024 10:11:39: InitializeDataGridView: Start
+15.06.2024 10:11:39: InitializeDataGridView: End
+15.06.2024 10:11:39: LoadProcesses: Start
+15.06.2024 10:12:59: Form1 constructor: Start
+15.06.2024 10:12:59: InitializeDataGridView: Start
+15.06.2024 10:12:59: InitializeDataGridView: End
+15.06.2024 10:12:59: LoadProcesses: Start
+15.06.2024 10:18:46: Form1 constructor: Start
+15.06.2024 10:18:46: InitializeDataGridView: Start
+15.06.2024 10:18:46: InitializeDataGridView: End
+15.06.2024 10:18:46: LoadProcesses: Start
+15.06.2024 10:18:46: Processing process: svchost (ID: 4924)
+15.06.2024 10:18:49: Processing process: svchost (ID: 3444)
+15.06.2024 10:18:51: Processing process: svchost (ID: 2144)
+15.06.2024 10:18:53: Processing process: svchost (ID: 3864)
+15.06.2024 10:18:55: Processing process: chrome (ID: 13776)
